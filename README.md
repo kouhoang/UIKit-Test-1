@@ -1,3 +1,3 @@
 <p align="center">
-  <img src="image/UI1.png" style="width: 25%;" alt="Image">
+  <img src="image/UI1.gif" style="width: 25%;" alt="Image">
 </p>
